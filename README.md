@@ -9,7 +9,7 @@ Building intelligent AI systems, hybrid Quantum-AI frameworks, and next-generati
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anuj-srinivas-127596293>
+<a href="https://www.linkedin.com/in/anuj-srinivas-127596293">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
