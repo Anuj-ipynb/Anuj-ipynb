@@ -1,224 +1,148 @@
-<h1 align="center">Hi , I'm Anuj Srinivas</h1>
+## Hi, I'm Anuj Srinivas 👋
 
-<h3 align="center">
-AI Engineer • Agentic AI • LLM Systems • Quantum Computing
-</h3>
+### AI Engineer • Agentic AI • LLM Systems • Backend & RAG
 
-<p align="center">
-Building intelligent AI systems, hybrid Quantum-AI frameworks, and next-generation autonomous agents.
-</p>
+Building stateful autonomous agents, vectorless RAG architectures, and production-ready, low-latency backend systems.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/anuj-srinivas-127596293">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:anujsrinivas00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujsrinivas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujsrinivas00@gmail.com)
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-| | |
-|:---|:---|
-| 🔭 **Currently Building** | Scalable AI systems, hybrid Quantum-AI frameworks, and intelligent safety diagnostic platforms. |
-| 🤝 **Open to Collaborate** | Agentic AI, Generative AI, Quantum Computing, open-source AI/ML, and impactful research projects. |
-| 🌱 **Currently Learning** | Retrieval-Augmented Generation (RAG), Deep Agents, LLM Evaluation, Guardrails, and AI Safety. |
-| 💬 **Ask Me About** | Agentic AI, LLM Systems, Generative AI, Quantum Computing, Machine Learning, and AI Architecture. |
+| Key | Details |
+| :--- | :--- |
+| 🔭 **Currently Building** | Stateful agentic execution graphs, vectorless RAG document pipelines, and high-throughput microservices. |
+| 🤝 **Open to Collaborate** | Agentic AI, Generative AI, LangGraph architectures, open-source systems, and forward-deployed AI tooling. |
+| 🌱 **Currently Exploring** | Model Context Protocol (MCP), Tree-Index Retrieval, State Graph Checkpointing, and AI Safety Guardrails. |
+| 💬 **Ask Me About** | Agentic AI, LangGraph, LLM Systems, FastAPI, Pydantic, Vectorless RAG, and Production ML Deployment. |
 | ⚡ **Fun Fact** | I play multiple musical instruments, including the Guitar and Violin. |
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuj-ipynb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Anuj-ipynb&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj-ipynb&show_icons=true&theme=dark" alt="Anuj's GitHub stats" />
 </p>
-
 <p align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-ipynb&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-ipynb&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-ipynb&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+## ⚡ OODA-Kernel
+### Autonomous Decision Engine with Human-in-the-Loop Guardrails
+*Tech:* Python • LangGraph • FastAPI • Pydantic
+- Cyclic state graph execution following the Observe-Orient-Decide-Act pattern
+- Deterministic checkpoint persistence and zero-state-drift fault recovery
+- Human-in-the-loop pause/resume triggers with sub-50ms dispatch latency
+- Strict schema validation preventing runaway loops and malformed tool calls
+
+## 📄 DocuNav
+### Vectorless RAG Engine for Legal & Compliance Due Diligence
+*Tech:* Python • IBM Granite 4.1 • PageIndex • FastAPI
+- Hierarchical tree-indexing engine traversing 500+ page statutory documents
+- Eliminates embedding-chunking hallucinations and drops token consumption during inference
+- Precision citation extraction for regulatory, compliance, and enterprise workflows
+- Low-latency interactive API layer built for enterprise analysts
+
+## 🛡️ GridGuard Pro (Patent Pending)
+### Offline AI Diagnosis for Infrastructure & Renewable Energy Safety
+*Tech:* Python • Machine Learning • Computer Vision • FastAPI
+- AI-powered telemetry anomaly interpretation and root-cause analysis
+- Intelligent safety monitoring over unstructured operational and system logs
+- Modular backend orchestrating reasoning chains for automated work orders
+- Offline-first architecture engineered for critical infrastructure reliability
 
 ## 🧬 NovaQure
-
 ### Hybrid AI–Quantum Drug Discovery Framework
-
-**Tech:** FastAPI • PyTorch • RDKit • PennyLane
-
-- Hybrid AI-powered molecular generation
-- Quantum-inspired optimization
-- Explainable molecular evaluation
-- Reliability-aware candidate ranking
+*Tech:* FastAPI • PyTorch • RDKit • PennyLane
+- Hybrid AI-powered molecular candidate generation
+- Quantum-inspired optimization surrogates for sim-to-real noise
+- Explainable molecular evaluation and candidate ranking
+- Automated chemical property prediction pipelines
 
 ---
 
-## 🛡️ GridGuard Pro *(Patent Pending)*
+## 💻 Tech Stack
 
-### Offline AI Diagnosis for Renewable Energy Safety
+### 🧠 Artificial Intelligence & Machine Learning
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 
-**Tech:** Python • Machine Learning • Computer Vision
+### 🤖 Generative AI, Agentic AI & Backend
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
+[![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/docs/transformers)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-- AI-powered fault diagnosis
-- Intelligent safety monitoring
-- Offline-first architecture
-- Renewable energy diagnostics
+### ☁️ Cloud, DevOps & Deployment
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
----
+### 💾 Databases & Storage
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-## ⚛️ QuantumSimAI
+### 💻 Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-### End-to-End Quantum AI Noise Analysis
-
-**Tech:** Python • Machine Learning • Quantum Computing
-
-- ML surrogate models
-- Quantum noise analysis
-- Sim-to-real validation
-- Performance optimization
-
----
-
-## 📈 Dynamic Pricing Strategy Simulator
-
-### Reinforcement Learning Pricing Engine
-
-**Tech:** Python • Reinforcement Learning • MLOps
-
-- Dynamic pricing optimization
-- Intelligent pricing strategies
-- RL-based decision making
-- End-to-end experimentation
-
----
-
-# 💻 Tech Stack
-
-## 🧠 Artificial Intelligence & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
-![MLflow](https://img.shields.io/badge/MLflow-blue?style=for-the-badge)
+### 🛠 Development Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 ---
 
-## 🤖 Generative AI, Agentic AI & Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
-![Model Context Protocol](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6A5ACD?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude_Code-181818?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-## ☁️ Cloud, DevOps & Deployment
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
-
----
-
-## 💾 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-## 🛠 Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia&logoColor=green)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-
----
-
-# 🛠 AI Engineering Toolkit
+## 🛠 AI Engineering Toolkit
 
 | Category | Technologies |
-|-----------|--------------|
+| :--- | :--- |
 | **Agent Frameworks** | LangChain • LangGraph • MCP |
-| **Coding Agents** | Claude Code • GitHub Copilot |
-| **LLM Runtime** | Ollama |
-| **Vector Databases** | FAISS • ChromaDB |
-| **Model Ecosystem** | Hugging Face • Transformers • LlamaIndex |
-| **Backend** | FastAPI • Streamlit |
-| **ML Frameworks** | PyTorch • TensorFlow • Scikit-Learn |
-| **MLOps** | MLflow |
-| **Cloud & DevOps** | AWS • Docker • GitHub Actions |
+| **Document AI & RAG** | Vectorless RAG • Tree Indexing • PageIndex • FAISS |
+| **LLM Runtime & Tools** | Ollama • Claude Code • GitHub Copilot |
+| **Model Ecosystem** | Hugging Face • Transformers • PyTorch |
+| **Backend & APIs** | FastAPI • Asynchronous I/O (`asyncio`) • Pydantic • Streamlit |
+| **Data & Databases** | PostgreSQL • MySQL • SQLite • MongoDB |
+| **Cloud & DevOps** | Docker • Git • GitHub Actions • AWS |
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- 🤖 Agentic AI Systems
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚛️ Hybrid Quantum-AI
-- 🛡️ AI Safety & Guardrails
-- 🤝 Multi-Agent Systems
-- 🧬 AI for Drug Discovery
-- 📊 Machine Learning Research
-- 📈 Intelligent Automation
+- 🤖 Stateful Agentic AI & Cyclic State Machines
+- 🔍 Vectorless RAG & Hierarchical Tree Indexing
+- ⚡ High-Throughput Low-Latency Backends (FastAPI, Asyncio)
+- 🛡️ Human-in-the-Loop Guardrails & Runtime Validation
+- 📊 Production Anomaly Detection & Time-Series Modeling
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anuj-ipynb&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuj-ipynb&theme=onedark&no-frame=true&no-bg=true" alt="Anuj's Trophies" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anuj-ipynb&style=for-the-badge&color=7c3aed"/>
-</p>
-
----
-
-<p align="center">
-<i>"Building AI systems that don't just automate tasks, but reason, adapt, and innovate."</i>
+  <em>"Building deterministic, reliable AI systems engineered for production."</em>
 </p>
